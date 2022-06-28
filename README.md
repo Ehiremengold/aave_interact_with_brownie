@@ -4,4 +4,4 @@
 3. repay everything
 
 using mainnet-fork for testing 
-using rinkeby for testnet
+using kovan for testnet
